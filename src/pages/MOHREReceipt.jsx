@@ -7,7 +7,7 @@ import btnDownload from '../assets/images/btn-download.png';
 export default function MOHREReceipt() {
   return <>
     <div className="back-button-wrapp mt-3 text-center">
-        <a id="printpdf_download_main" href="javascript:void(0);" className="btn btn-secondary btn-pdf">
+        <a id="printpdf_download_main" href="#" className="btn btn-secondary btn-pdf">
             <img id="printpdf_download" alt="download pdf" src={btnDownload} />
             Download pdf
         </a>
