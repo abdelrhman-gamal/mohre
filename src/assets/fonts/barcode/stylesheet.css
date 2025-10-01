@@ -1,0 +1,30 @@
+
+@font-face {
+    font-family: 'Free 3 of 9' !important;
+    src: url('Free3of9.woff2') format('woff2'), url('Free3of9.woff') format('woff'), url('Free3of9.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Free 3 of 9' !important;
+    src: url('Free3of9_1.woff2') format('woff2'), url('Free3of9_1.woff') format('woff'), url('Free3of9_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Free 3 of 9' !important;
+    src: url('Free3of9_2.woff2') format('woff2'), url('Free3of9_2.woff') format('woff'), url('Free3of9_2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Free 3 of 9' !important;
+    src: url('Free3of9_3.woff2') format('woff2'), url('Free3of9_3.woff') format('woff'), url('Free3of9_3.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
