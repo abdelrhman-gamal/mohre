@@ -11,7 +11,7 @@ const router = createBrowserRouter([
     path: "/",
     element: <App />,
     children: [
-      { path: "MOHREReceipt/index", element: <Navigate to="/MOHREReceipt" /> }
+      { path: "MOHREReceipt/index", element: <MOHREReceipt /> },
     ],
   },
 ]);
