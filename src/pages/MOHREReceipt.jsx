@@ -1,5 +1,5 @@
 import logoMohre from '../assets/images/logo-mohre.png';
-import outputOnlinejpgtools from '../assets/images/output-onlinejpgtools.jpg';
+import outputOnlinejpgtools from '../assets/images/qrcode.png';
 import letterStamp2 from '../assets/images/letterstamp2.png';
 import footer from '../assets/images/footer.png';
 import btnDownload from '../assets/images/btn-download.png';
