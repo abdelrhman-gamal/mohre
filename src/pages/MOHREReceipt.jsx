@@ -116,28 +116,11 @@ export default function MOHREReceipt() {
             </th>
         </tr>
     </thead>
-    <tbody>
-        <tr>
-            <td>
-                <div className="block">FAST ENERGY CONTRACTING   GENERAL  MAINTENANCE GENERAL L L C</div>
-                <div className="block">شركه الطاقه السريعه للمقاولات والصيانه العامه ذ م م</div>
-            </td>
-            <td>
-                <div className="block">MECHANICAL ENGR GEN MAINTENANC</div>
-                <div className="block">مهندس  ميكانيكي / صيانة عامة</div>
-            </td>
-            <td>
-                <div className="block">27/02/2009</div>
-            </td>
-            <td>
-                <div className="block">30/06/2009</div>
-            </td>
-            <td>
-                <div className="block">0 Year(s), 4 Month(s), 3 Day(s)</div>
-                <div className="block arabic-align">0 السنوات, 4 الأشهر, 3 الأيام</div>
-            </td>
-        </tr>
-    </tbody>
+    <tbody><tr><td><div class="block">FAST ENERGY CONTRACTING   GENERAL  MAINTENANCE GENERAL L L C</div><div class="block">شركه الطاقه السريعه للمقاولات والصيانه العامه ذ م م</div></td><td><div class="block">MECHANICAL ENGR GEN MAINTENANC</div><div class="block">مهندس  ميكانيكي / صيانة عامة</div></td><td><div class="block">27/02/2009</div></td><td><div class="block">30/06/2009</div></td><td><div class="block">0 Year(s), 4 Month(s), 3 Day(s)</div><div class="block arabic-align">0 السنوات, 4 الأشهر, 3 الأيام</div></td></tr>
+<tr><td><div class="block">FAST ENERGY CONTRACTING   GENERAL  MAINTENANCE GENERAL L L C</div><div class="block">شركه الطاقه السريعه للمقاولات والصيانه العامه ذ م م</div></td><td><div class="block">MECHANICAL ENGR GEN MAINTENANC</div><div class="block">مهندس  ميكانيكي / صيانة عامة</div></td><td><div class="block">08/01/2013</div></td><td><div class="block">08/01/2015</div></td><td><div class="block">2 Year(s), 0 Month(s), 0 Day(s)</div><div class="block arabic-align">2 السنوات, 0 الأشهر, 0 الأيام</div></td></tr>
+    <tr><td><div class="block">KHAIR HAMDA HOTEL MANAGEMENT</div><div class="block">خير حمدة لإدارة الفنادق</div></td><td><div class="block">COMMERCIAL SALES REPRESENTATIVE</div><div class="block">مندوب مبيعات تجارية</div></td><td><div class="block">18/02/2024</div></td><td><div class="block">18/02/2026</div></td><td><div class="block">2 Year(s), 0 Month(s), 0 Day(s)</div><div class="block arabic-align">2 السنوات, 0 الأشهر, 0 الأيام</div></td></tr>
+    
+</tbody>
     </table>
     </div>
         <div className="two-coloumn">
