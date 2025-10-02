@@ -7,7 +7,7 @@ import btnDownload from '../assets/images/btn-download.png';
 export default function MOHREReceipt() {
   return <>
     <div className="back-button-wrapp mt-3 text-center">
-        <a id="printpdf_download_main" href="#" className="btn btn-secondary btn-pdf">
+        <a id="printpdf_download_main" href="#" onClick={window.print} className="btn btn-secondary btn-pdf">
             <img id="printpdf_download" alt="download pdf" src={btnDownload} />
             Download pdf
         </a>
@@ -23,7 +23,7 @@ export default function MOHREReceipt() {
                   <div className="barcode-holder">
                       <span id="CoverPage2_lblBarCode" className="Barcode" style={{"fontFamily": 'Free 3 of 9'}}>*RP241902457AE*</span>
                   </div>
-                  <div className="trans-details" style={{marginTop: "-0.25rem"}}>
+                  <div className="trans-details" style={{marginTop: "-0.15rem"}}>
                       <span className="tans-number">RP241902457AE</span>
                       <span className="trans-amount"><br/><strong> &nbsp; القيمة:</strong> 0.0 AED</span>
                   </div>
