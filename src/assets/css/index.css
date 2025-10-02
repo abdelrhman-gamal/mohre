@@ -1503,6 +1503,8 @@ ul {
 
 .receipt-container table.content-table th {
     background: #d9d9d9 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
     font-weight: bold;
 }
 
